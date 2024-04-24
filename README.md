@@ -122,7 +122,13 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![mlx53](https://github.com/Aprajith-R/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161153978/2277a006-6efb-43ab-ada9-b3927f65c56f)
+![mlx54](https://github.com/Aprajith-R/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161153978/98a66aed-280b-4634-a0e7-2c8023d255ba)
+![mlx56](https://github.com/Aprajith-R/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161153978/2d30e216-84be-46a1-96ed-b040d4bc67e8)
+![mlx57](https://github.com/Aprajith-R/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161153978/437fee44-c3cc-4312-ae70-deabcc182a22)
+
+## Result:
+Therefore the required Implementation of Logistic Regression Using Gradient Descent is done.
 
 
 ## Result:
